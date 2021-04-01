@@ -1,0 +1,5 @@
+header {
+    margin-bottom:30px;
+}
+.img-sm-responsive {  display: block;  height: auto;  max-width: 150px}
+.img-med-responsive {  display: block;  height: auto;  max-width: 85%; }
